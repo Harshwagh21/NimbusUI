@@ -1,5 +1,5 @@
 import { DriveBrowser } from "@/components/drive/drive-browser";
 
 export default function DrivePage() {
-  return <DriveBrowser parentId={null} title="My Drive" />;
+  return <DriveBrowser parentId={null} />;
 }
